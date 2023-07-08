@@ -1,0 +1,38 @@
+﻿/* các xử lí định dạng riêng cho thẻ html */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body{
+	background: #fffffe;
+	color: #555;
+	font-family: 'Quicksand', sans-serif;
+	font-size:14px;
+}
+
+table{
+	width: 100%;
+	font-size: 14px;
+}
+
+th, td{
+	padding: 10px 5px;
+}
+
+th{
+	background: #555;
+	color: #fff;
+	font-size: 18px;
+	text-transform: uppercase;
+	
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+/************************************************/
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: #aaa;
+}
+
+/************************************************/

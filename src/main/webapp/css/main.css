@@ -1,0 +1,70 @@
+﻿/* các xử lí định dạng riêng cho login_v2.html */
+
+@import url('reset.css');
+@import url('imghover.css');
+
+/* ../ lùi ra 1 mức thư mục */
+
+/* ***********************************Header************************* */
+.myimgs{
+	width: 80px;
+	margin-right: 50px;
+}
+
+.view{
+	height: auto;
+}
+
+/* ***********************************Menu************************* */
+
+
+/* ***********************************Slider************************* */
+
+
+/* ***********************************News************************* */
+.card-img-crop{
+	height: 70vh;
+	overflow: hidden;
+}
+
+/* ***********************************About************************* */
+
+
+/* ***********************************Ask************************* */
+
+
+/* ***********************************Contact************************* */
+
+
+/* ***********************************Footer************************* */
+
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+	
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){ 
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	
+ }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+	
+}
